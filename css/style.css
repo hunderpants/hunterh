@@ -1,6 +1,4 @@
 /* TYPOGRAPHY */
-
-
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 body {
@@ -79,12 +77,14 @@ small, .font_small {font-size: 0.8em;}
 /* COMPONENTS */
 
 #footer {
+	font-family: Montserrat;
+	font-weight: 400;
+	font-size: 0.8em;
 	position: fixed;
 	left: 0px;
 	bottom: 0px;
 	height: auto;
 	width: 100%;
-	text-align: center;
 	background: #000;
 	color: #CCCCCC;
 }
