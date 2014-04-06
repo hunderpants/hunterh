@@ -2,10 +2,14 @@
 
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+<<<<<<< HEAD
 @font-face {
 	font-family: fontello;
 	src: url('../fonts/fontello.ttf') format('opentype');
 }
+=======
+
+>>>>>>> FETCH_HEAD
 body {
   background-color: white;
   font-size: 1em;
